@@ -1,0 +1,26 @@
+package com.BrowserTest;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class FireFoxBrowser {
+
+	public static void main(String[] args) {
+		
+		WebDriver driver = null;
+		String url="http://bing.com";
+		
+		System.setProperty("webdriver.gecko.driver", "./driverFiles/geckodriver.exe");
+		
+		driver = new FirefoxDriver();
+		driver.get(url);
+		
+		System.setProperty("webdriver.chrome.driver", "./driverFiles/chromedriver.exe");
+		
+		driver = new ChromeDriver();
+		driver.get("http://google.com");
+
+	}
+
+}

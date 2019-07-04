@@ -1,0 +1,17 @@
+package com.Basics;
+
+public class ObjectUsing {
+		
+	int student_RollNumber;
+	String student_Name;
+	
+
+	public static void main(String[] args) {
+	
+	ObjectUsing s = new ObjectUsing();
+	System.out.println(s.student_Name);
+	System.out.println(s.student_RollNumber);
+	
+	}
+
+}

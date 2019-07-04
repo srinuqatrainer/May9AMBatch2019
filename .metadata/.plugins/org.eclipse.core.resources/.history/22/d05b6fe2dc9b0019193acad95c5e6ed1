@@ -1,0 +1,17 @@
+package com.Basics;
+
+public class ObjectUsing {
+
+	public static void main(String[] args) {
+		
+	class student
+	{
+		int student_RollNumber;
+		String student_Name;
+	}
+	
+	
+
+	}
+
+}

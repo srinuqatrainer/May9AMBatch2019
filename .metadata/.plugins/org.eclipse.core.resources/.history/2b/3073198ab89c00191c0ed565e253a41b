@@ -1,0 +1,21 @@
+package com.BrowserTest;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class FireFoxBrowser {
+
+	public static void main(String[] args) {
+		
+		WebDriver driver = null;
+		String url="http://bing.com";
+		
+		System.setProperty("webdriver.gecko.driver", "./driverFiles/geckodriver.exe");
+		
+		driver = new FirefoxDriver();
+		
+		
+
+	}
+
+}

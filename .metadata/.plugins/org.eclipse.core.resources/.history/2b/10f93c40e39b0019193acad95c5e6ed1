@@ -1,0 +1,13 @@
+package com.Basics;
+
+public class UsingMethod_Example {
+	
+	int id;
+	String name; 
+	
+
+	public static void main(String[] args) {
+	
+	}
+
+}

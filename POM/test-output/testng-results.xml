@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69645" started-at="2019-06-08T05:00:40Z" finished-at="2019-06-08T05:01:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69645" started-at="2019-06-08T05:00:40Z" finished-at="2019-06-08T05:01:49Z">
+      <class name="com.POM.NewTours_HomePageTesting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.POM.NewTours_HomePageTesting@5dfcfece]" name="setUp" is-config="true" duration-ms="11310" started-at="2019-06-08T10:30:40Z" finished-at="2019-06-08T10:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.POM.NewTours_HomePageTesting@5dfcfece]" name="homePage" duration-ms="57518" started-at="2019-06-08T10:30:51Z" finished-at="2019-06-08T10:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.POM.NewTours_HomePageTesting@5dfcfece]" name="tearDown" is-config="true" duration-ms="789" started-at="2019-06-08T10:31:48Z" finished-at="2019-06-08T10:31:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.POM.NewTours_HomePageTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

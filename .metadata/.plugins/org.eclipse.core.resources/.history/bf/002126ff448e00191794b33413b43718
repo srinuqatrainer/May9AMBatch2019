@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jun 13 13:55:57 IST 2019<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message">Firefox Browser launched Successfully</td>
+</tr>
+
+<tr>
+<td>1150</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message"> Successfully launched OrangeHRM Application</td>
+</tr>
+
+<tr>
+<td>1624</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message"> Successfully Entered UserName</td>
+</tr>
+
+<tr>
+<td>2690</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message"> Successfully Entered Password</td>
+</tr>
+
+<tr>
+<td>4701</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message"> Successfully performed click operation on LogIn button</td>
+</tr>
+
+<tr>
+<td>4702</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message"> The expected logIn text is : Welcome Admin</td>
+</tr>
+
+<tr>
+<td>4739</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message"> The actual LogIn text is : Welcome Admin</td>
+</tr>
+
+<tr>
+<td>4740</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message">LogIn Successfull - PASS</td>
+</tr>
+
+<tr>
+<td>5762</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.OrageHRM.LogInTest category">com.OrageHRM.LogInTest</td>
+<td title="Message">Successfully closed OrageHRM Application</td>
+</tr>

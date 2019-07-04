@@ -1,0 +1,17 @@
+package com.Basics;
+
+public class Object_UsingMethodsExample {
+
+	public static void main(String[] args) {
+		
+		int id;
+		String Name;
+		
+		void insertValues(int empId,String EmpName)
+		{
+			
+		}
+
+	}
+
+}

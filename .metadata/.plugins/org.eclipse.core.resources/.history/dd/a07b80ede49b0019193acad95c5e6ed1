@@ -1,0 +1,20 @@
+package com.Basics;
+
+public class Object_UsingMethodsExample {
+	
+	int id;
+	String name;
+	
+	void insertValues(int empId,String empName)
+	{
+		id=empId;
+		name=empName;
+	}
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

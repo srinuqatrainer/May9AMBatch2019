@@ -1,0 +1,18 @@
+2019-06-14 09:14:25,442 - com.OrageHRM.LogInTest -INFO - Firefox Browser launched Successfully
+2019-06-14 09:14:33,436 - com.OrageHRM.LogInTest -INFO -  Successfully launched OrangeHRM Application
+2019-06-14 09:14:33,789 - com.OrageHRM.LogInTest -INFO -  Successfully Entered UserName
+2019-06-14 09:14:33,862 - com.OrageHRM.LogInTest -INFO -  Successfully Entered Password
+2019-06-14 09:14:39,787 - com.OrageHRM.LogInTest -INFO -  Successfully performed click operation on LogIn button
+2019-06-14 09:14:39,787 - com.OrageHRM.LogInTest -INFO -  The expected logIn text is : Welcome Admin
+2019-06-14 09:14:39,827 - com.OrageHRM.LogInTest -INFO -  The actual LogIn text is : Welcome Admin
+2019-06-14 09:14:39,829 - com.OrageHRM.LogInTest -INFO - LogIn Successfull - PASS
+2019-06-14 09:14:41,418 - com.OrageHRM.LogInTest -INFO - Successfully closed OrageHRM Application
+2019-06-14 09:18:02,207 - com.OrageHRM.LogInTest -INFO - Firefox Browser launched Successfully
+2019-06-14 09:18:03,163 - com.OrageHRM.LogInTest -INFO -  Successfully launched OrangeHRM Application
+2019-06-14 09:18:03,993 - com.OrageHRM.LogInTest -INFO -  Successfully Entered UserName
+2019-06-14 09:18:04,104 - com.OrageHRM.LogInTest -INFO -  Successfully Entered Password
+2019-06-14 09:18:07,014 - com.OrageHRM.LogInTest -INFO -  Successfully performed click operation on LogIn button
+2019-06-14 09:18:07,015 - com.OrageHRM.LogInTest -INFO -  The expected logIn text is : Welcome Admin
+2019-06-14 09:18:07,051 - com.OrageHRM.LogInTest -INFO -  The actual LogIn text is : Welcome Admin
+2019-06-14 09:18:07,051 - com.OrageHRM.LogInTest -INFO - LogIn Successfull - PASS
+2019-06-14 09:18:08,703 - com.OrageHRM.LogInTest -INFO - Successfully closed OrageHRM Application

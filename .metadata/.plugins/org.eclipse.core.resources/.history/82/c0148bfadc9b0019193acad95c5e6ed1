@@ -1,0 +1,22 @@
+package com.Basics;
+
+public class ObjectUsing {
+	
+	
+	class student
+	{
+		int student_RollNumber;
+		String student_Name;
+	}
+
+	public static void main(String[] args) {
+	
+	student s = new student();
+	System.out.println(s.student_Name);
+	System.out.println(s.student_RollNumber);
+	
+	
+
+	}
+
+}

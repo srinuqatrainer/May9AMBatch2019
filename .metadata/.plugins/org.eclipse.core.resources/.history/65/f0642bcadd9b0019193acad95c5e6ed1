@@ -1,0 +1,22 @@
+package com.Basics;
+
+public class student {
+	
+	int student_RollNumber;
+	String student_Name;
+	
+	}
+
+class student
+{
+
+public static void main(String[] args) {
+
+	MainOutSideTheClass m = new MainOutSideTheClass();
+	m.student_Name;
+
+
+}
+
+}
+
